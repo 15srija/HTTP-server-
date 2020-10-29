@@ -4,6 +4,7 @@
 #include<errno.h>
 #include<arpa/inet.h>
 #include<sys/socket.h>
+//creating socket
 short SocketCreate(void)
 {
 short hSocket;
